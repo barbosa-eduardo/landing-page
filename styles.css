@@ -159,3 +159,13 @@ body {
     font-size: 16px;
     font-weight: bold;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 81px;
+    width: auto;
+    background-color: #1f2937;
+    color: white;
+}
