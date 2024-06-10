@@ -106,6 +106,23 @@ body {
     border-radius: 16px;
 }
 
-/* * {
-    border: 1px solid red;
-} */
+.quote-container {
+    background-color: #e5e7eb;
+    padding: 128px 512px;
+}
+
+.quote-text {
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+
+.quote-author {
+    text-align: end;
+    font-weight: bold;
+    font-size: 24px;
+}
+
