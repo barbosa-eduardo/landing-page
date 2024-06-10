@@ -126,3 +126,36 @@ body {
     font-size: 24px;
 }
 
+.signup-container {
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 124px auto;
+    height: 200px;
+    width: 1124px;
+    gap: 256px;
+    border-radius: 16px;
+}
+
+.signup-title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.signup-paragraph {
+    margin: 0;
+    padding: 0;
+}
+
+.signup-button {
+    width: 128px;
+    height: 36px;
+    background-color: #3882f6;
+    border: solid 2px white;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
